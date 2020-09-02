@@ -1,0 +1,35 @@
+.container{
+    padding: 1rem;
+}
+.row{
+    background-color: #ffdf00;
+    width: 50rem;
+    padding: 20px;
+    margin-left: 10rem;
+    margin-right: 0;
+    border-radius: 10px;
+    border: 1px solid #0333ff;
+}
+.row h2{
+    padding-left: 30px;
+    color: #0333ff;
+    padding-right: 0;
+}
+.row .delete{
+    background-color: #0333ff;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: #fff;
+    border-radius: 20px;
+    border: none;
+    transition: all 0.5s ease-in-out;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+.row .delete:hover{
+    background-color: #000333;
+    color: #fff;
+    transition: all 0.5s ease-in-out;
+    border-radius: 25px;
+    border: none;
+}

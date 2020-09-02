@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "http-service-example"
+    }
+  },
+  "defaultProject": "http-service-example",
+  "cli": {
+    "analytics": "ceb4ad86-f5f7-4c1e-9000-afa6240b6337"
+  }
 }
